@@ -1,6 +1,6 @@
 # Bayesian Analysis with Python (Second edition)
 
-This is the code repository for [Bayesian Analysis with Python](https://www.packtpub.com/big-data-and-business-intelligence/bayesian-analysis-python-second-edition), published by Packt. It contains all the code necessary to work through the book from start to finish. You can find the (old) code from the first edition in the folder `First_edition`
+This is the code repository for [Bayesian Analysis with Python](https://www.packtpub.com/big-data-and-business-intelligence/bayesian-analysis-python-second-edition), published by Packt. It contains all the code necessary to work through the book from start to finish. You can find the code from the first edition in the folder `first_edition`
 
 ## Installation
 
