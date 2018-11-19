@@ -27,4 +27,4 @@ We will use the following python packages:
 
 ## Errata
 
-If you find an error in the book please fill an issue or send a pull request.
+If you find an error in the book please fill an issue or send a pull request. Please before sending a PR read the `errata.md` file and verify the error has not being reported yet.
