@@ -17,12 +17,12 @@ We will use the following python packages:
 
 * Ipython 7.0
 * Jupyter 1.0 (or Jupyter-lab 0.35)
-* NumPy 1.14.5
-* SciPy 0.18.1
+* NumPy 1.14.2
+* SciPy 1.1
 * Pandas  0.23.4
-* Matplotlib 3.0
+* Matplotlib 3.0.2
 * Seaborn 0.9.0
-* ArviZ 0.3
+* ArviZ 0.3.1
 * PyMC3 3.6
 
 ## Errata
