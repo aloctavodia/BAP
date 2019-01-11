@@ -63,7 +63,7 @@ This is a list of the most important differences per chapter.
 
 * Chapter 7 Gaussian process. This chapter have been rewritten from scratch. I am particularly happy with this chapter. New examples are used to intuitively explain what GP are before applying them. The chapter uses the GP module that is part of PyMC3. The new examples include regression, classification and Cox processes.
 
-* Chapter 8 Inference engine. The discussion of numerical methods to approximate the posterior and how to diagnose samples has its own chapter now. An explanation of how Sequential Monte Carlo is also included. Although the chapter (and book) is focused on Markov Chain Monte Carlo methods, there is also a brief discussion about Variational Methods.
+* Chapter 8 Inference engine. The discussion of numerical methods to approximate the posterior and how to diagnose samples has its own chapter now. An explanation of how Sequential Monte Carlo works is also included. Although the chapter (and book) is focused on Markov Chain Monte Carlo methods, there is also a brief discussion about Variational Methods.
 
 * Chapter 9, Where To Go Next?, provides a list of resources for you to keep learning from beyond this book, and a very short _farewell speech_.
 
