@@ -17,7 +17,7 @@ page 65:
 
 page 66: 
     - the pooled standard deviation should have a plus (+) instead of a minus (-) sign between the group standard deviations. That is: 
-     $$\frac{\mu_2 - \mu_1}{\sqrt{\frac{{{\sigma_2}^2 + {\sigma_1}^2}{2}}}$$
+     $$\frac{\mu_2 - \mu_1}{\sqrt{\frac{{\sigma_2}^2 + {\sigma_1}^2}{2}}}$$
 
 page 73:
     - first paragraph: "i(t')s also possible"
