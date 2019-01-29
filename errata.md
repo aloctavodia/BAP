@@ -3,8 +3,8 @@
 ## Chapter 2
 
 page 59: 
-    - second paragraf: "I(t')s the theoretical distribution [...]"
-    - last paragraf: replace "for $\nu > 2$" with "for $\nu <= 2$" 
+    - second paragraph: "I(t')s the theoretical distribution [...]"
+    - last paragraph, third sentence: replace "for $\nu > 2$" with "for $\nu <= 2$" 
 
 page 63:
     - second paragraph: "how a few of the predictive samples look[s] very flat." 
@@ -16,7 +16,8 @@ page 65:
     - second paragraph: "help their kids grow[n] stronger"
 
 page 66: 
-    - the pooled standard deviation should have a plus (+) instead of a minus (-) sign between the group standard deviations.
+    - the pooled standard deviation should have a plus (+) instead of a minus (-) sign between the group standard deviations. That is: 
+     $$\frac{\mu_2 - \mu_1}{\sqrt{\frac{{{\sigma_2}^2 + {\sigma_1}^2}{2}}}$$
 
 page 73:
     - first paragraph: "i(t')s also possible"
@@ -47,4 +48,4 @@ page 120:
     - first paragraph: "Well that's the subject of Chapter [6](5), Model Comparison"
 
 page 128:
-    - first paragraph: "Using a fo(rest plot?)"
+    - first paragraph: "Using a fo(rest plot)"
