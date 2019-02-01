@@ -38,7 +38,7 @@ page 83:
 
 page 95:
 
-- first paragraph: "this constrain(t) is relaxed"	
+- first paragraph: "this constrain(t) is relaxed"
 
 page 100:
 
@@ -78,19 +78,19 @@ page 154:
 
 page 160:
 
-- third paragraph: "and 50 virgini[n]as"
+- third paragraph: "and 50 virgini[n](c)as"
 
 page 163:
 
 - bottom paragraph: "Chapter 5, [Modeling with Linear Regression] (Model Comparison)"
 
-page 165:
+page 167:
 
 - last line: "x! is the factorial of [k ...]" - replace k with x everywhere in the following expression.
 
 page 170:
 
-- equation (4.25): the parameter $\mu$ should have no index
+- equation (4.25): $$p(y_j = k_i) = \psi \frac{\mu^{x_i}e^{-\mu}}{x_i!}$$
 
 page 175:
 
