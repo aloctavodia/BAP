@@ -11,5 +11,7 @@ dependencies:
   - seaborn=0.9
   - numpy=1.14.2
   - scipy=1.1
+  - graphviz=2.38.0
+  - python-graphviz=0.8.4
   - pip:
     - arviz==0.3.1
