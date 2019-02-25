@@ -65,6 +65,9 @@ page 128:
 
 - first paragraph: "Using a fo(rest plot)"
 
+Page 141:
+
+- question 6: "ArviZ functions like plot_trace and plot_pair"
 
 ## Chapter 4
 
