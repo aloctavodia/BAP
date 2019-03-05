@@ -2,6 +2,10 @@
 
 ## Chapter 2
 
+page 50
+
+- As we can see, the result looks somewhat similar for lossf_a is $\hat \theta = 0.32$
+
 page 59: 
 
 - second paragraph: "I(t')s the theoretical distribution [...]"
@@ -61,9 +65,25 @@ page 120:
 
 - first paragraph: "Well that's the subject of Chapter [6] (5), Model Comparison"
 
+page 121:
+
+Here, $\beta$ is a  vector of coefficients of length $m$, that is, the number of [in]dependent variables.
+
 page 128:
 
 - first paragraph: "Using a fo(rest plot)"
+
+page 133:
+
+- Figure 3.26 have been updated
+
+page 135:
+
+- In all of the examples we have seen so far, the [in]dependent variables contribute additively to the predicted variable.
+
+page 136:
+
+- For those cases, we may want to consider the variance as a (linear) function of the [in]dependent variable.
 
 Page 141:
 
