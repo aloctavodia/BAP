@@ -87,7 +87,11 @@ page 136:
 
 Page 141:
 
-- question 6: "ArviZ functions like plot_trace and plot_pair"
+- Exercise 6: "ArviZ functions like plot_trace and plot_pair"
+
+Page 144:
+- Exercise 14: This time [a]dd uncertainy to the linear plot
+- Exercise 14: Exercise should reference Figure 3.17, not Figure 3.18
 
 ## Chapter 4
 
