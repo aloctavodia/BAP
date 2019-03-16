@@ -130,6 +130,10 @@ page 185:
 
 - first paragraph: "shocked or even disappoint[ing] (ed) by"
 
+page 221:
+
+-  Bayes factors are problematic to use, given that they are very sensitive[ly] to prior specification,
+
 
 ## Chapter 6
 
