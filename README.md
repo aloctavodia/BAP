@@ -2,6 +2,11 @@
 
 This is the code repository for [Bayesian Analysis with Python](https://www.packtpub.com/big-data-and-business-intelligence/bayesian-analysis-python-second-edition), published by Packt. It contains all the code necessary to work through the book from start to finish. You can find the code from the first edition in the folder `first_edition`
 
+## Feedback
+
+If you have read Bayesian Analysis with Python (second edition). I will really appreciate if you can answer this very brief [questionnaire](https://forms.gle/8wbUttTUHg3kwLHc8)
+
+
 ## Installation
 
 The code in the book was written using Python version 3.6. To install Python and Python libraries, I recommend using Anaconda, a scientific computing distribution. You can read more about Anaconda and download it at https:/​ / ​ www.​ anaconda.​ com/​ download/​ . This will install many useful Python packages on you system. You will need to install two more packages. To install PyMC3 please use conda :
@@ -34,6 +39,7 @@ For your reference the book was writting using the following python packages:
 * Seaborn 0.9.0
 * ArviZ 0.3.1
 * PyMC3 3.6
+
 
 ## Errata
 
