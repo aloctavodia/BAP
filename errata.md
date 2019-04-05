@@ -141,6 +141,11 @@ page 230:
 
 - last paragraph: "does not necessary depend[s] on data"
 
+Page 218:
+
+- "KL diverge[nce] is useful because it is a way of measuring how close to distributins are
+
+
 page 237:
 
 - third paragraph: "logistic[s] regression"
