@@ -23,7 +23,6 @@ page 65:
 
 - second paragraph: "help their kids grow[n] stronger"
 
-
 page 66: 
 
 - the pooled standard deviation should have a plus (+) instead of a minus (-) sign between the group standard deviations. That is: 
@@ -140,6 +139,11 @@ page 221:
 page 230:
 
 - last paragraph: "does not necessary depend[s] on data"
+
+Page 218:
+
+- "KL diverge[nce] is useful because it is a way of measuring how close to distributins are
+
 
 page 237:
 
