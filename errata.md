@@ -34,7 +34,7 @@ page 73:
 
 page 83:
 
-- first paragraph: "And that is, ladies, gentlem[a](e)n"
+- first paragraph: "And that is, ladies, gentlem[a] (e) n"
 
 
 ## Chapter 3
@@ -66,7 +66,7 @@ page 120:
 
 page 121:
 
-Here, $\beta$ is a  vector of coefficients of length $m$, that is, the number of [in]dependent variables.
+Here, $\beta$ is a  vector of coefficients of length $m$, that is, the number of (in)dependent variables.
 
 page 128:
 
@@ -78,25 +78,21 @@ page 133:
 
 page 135:
 
-- In all of the examples we have seen so far, the [in]dependent variables contribute additively to the predicted variable.
+- In all of the examples we have seen so far, the (in)dependent variables contribute additively to the predicted variable.
 
 page 136:
 
-- For those cases, we may want to consider the variance as a (linear) function of the [in]dependent variable.
+- For those cases, we may want to consider the variance as a (linear) function of the (in)dependent variable.
 
 Page 141:
 
 - Exercise 6: "ArviZ functions like plot_trace and plot_pair"
 
 Page 144:
-- Exercise 14: This time [a]dd uncertainy to the linear plot
+- Exercise 14: This time (a)dd uncertainy to the linear plot
 - Exercise 14: Exercise should reference Figure 3.17, not Figure 3.18
 
 ## Chapter 4
-
-page 149:
-
-- first paragraph: "scatter[s] plots"
 
 page 154:
 
@@ -104,7 +100,7 @@ page 154:
 
 page 160:
 
-- third paragraph: "and 50 virgini[n](c)as"
+- third paragraph: "and 50 virgini[n] (c) as"
 
 page 163:
 
@@ -112,7 +108,7 @@ page 163:
 
 page 167:
 
-- last line: "x! is the factorial of [k ...]" - replace k with x everywhere in the following expression.
+- last line: "$x!$ is the factorial of $x$, that is, $x! = x \times (x-1) \times (x-2) \times \dots \times 2 \times 1$.
 
 page 170:
 
@@ -138,11 +134,11 @@ page 221:
 
 page 230:
 
-- last paragraph: "does not necessary depend[s] on data"
+- last paragraph: "does not necessary depend(s) on data"
 
 Page 218:
 
-- "KL diverge[nce] is useful because it is a way of measuring how close to distributins are
+- "KL diverge(nce) is useful because it is a way of measuring how close to distributins are
 
 
 page 237:
