@@ -15,7 +15,6 @@ page 53 (54):
 page 59 (60):
 
 - second paragraph: "I(t')s the theoretical distribution [...]"
-- second paragraph: The sentence "Is the theoretical distribution itself the one without a defined mean." is somehow unrelated to the context. Maybe rephrase.
 - last paragraph, third sentence: replace "for $\nu > 2$" with "for $\nu <= 2$" 
 
 page 63 (64):
