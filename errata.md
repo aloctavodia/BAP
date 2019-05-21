@@ -8,9 +8,14 @@ page 50 (51):
 
 - As we can see, the result looks somewhat similar for lossf_a is $\hat \theta = 0.32$
 
+page 53 (54):
+
+- As I am not a [not a] ethologist [...]
+
 page 59 (60):
 
 - second paragraph: "I(t')s the theoretical distribution [...]"
+- second paragraph: The sentence "Is the theoretical distribution itself the one without a defined mean." is somehow unrelated to the context. Maybe rephrase.
 - last paragraph, third sentence: replace "for $\nu > 2$" with "for $\nu <= 2$" 
 
 page 63 (64):
@@ -20,6 +25,7 @@ page 63 (64):
 page 64 (65):
 
 - first paragraph: "to the value[s] estimated"
+- first paragraph: "[...] to values of \nu [>~] (>=) 2, the value [...]"
 
 page 65 (66):
 
@@ -33,6 +39,10 @@ page 66 (67):
 page 73 (74):
 
 - first paragraph: "i(t')s also possible"
+
+page 74 (75):
+
+- first bullet point: "We have (have) defined two [...]"
 
 page 83 (84):
 
