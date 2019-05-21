@@ -25,7 +25,6 @@ page 63 (64):
 page 64 (65):
 
 - first paragraph: "to the value[s] estimated"
-- first paragraph: "[...] to values of \nu [>~] (>=) 2, the value [...]"
 
 page 65 (66):
 
