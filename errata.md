@@ -4,6 +4,18 @@ The page numbers indicated between parentheses correspond to the printed version
 
 ## Chapter 2
 
+page 43 (44):
+
+expresion 2.1 should be
+
+$$\theta \sim Beta(\alpha, \beta)$$
+$$y \sim Bern(p=\theta)$$
+
+or equivalently 
+
+$$\theta \sim Beta(\alpha, \beta)$$
+$$y \sim Binom(n=1, p=\theta)$$
+
 page 50 (51):
 
 - As we can see, the result looks somewhat similar for lossf_a is $\hat \theta = 0.32$
@@ -81,6 +93,8 @@ Here, $\beta$ is a  vector of coefficients of length $m$, that is, the number of
 page 128 (130):
 
 - first paragraph: "Using a fo(rest plot)"
+
+- Figure 3.22 have been updated
 
 page 133 (135):
 
