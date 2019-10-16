@@ -1,5 +1,4 @@
 # Errata
-
 The page numbers indicated between parentheses correspond to the printed version
 
 ## Chapter 2
@@ -258,6 +257,13 @@ page 295 (298):
 page 303 (306):
 
 - third paragraph: "The rule to decide whether to accept or reject is known as the Metropolis criteri[a] (on)"
+
+page 304 (307):
+
+- step 2, it should read Choose a new parameter value $x_{i+1}$ rather than Choose a new parameter value $x_i+1$.
+
+- The uppercase Q's should be lowercase q's $q(x_{i+1} \mid x_i)$
+
 
 page 318 (321):
 
