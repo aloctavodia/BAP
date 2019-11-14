@@ -51,7 +51,7 @@ page 73 (74):
 
 page 74 (75):
 
-- first bullet point: "We have (have) defined two [...]"
+- first bullet point: "We have [have] defined two [...]"
 
 page 83 (84):
 
