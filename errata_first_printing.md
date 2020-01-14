@@ -1,4 +1,4 @@
-# Errata
+# Errata (second edition first printing)
 The page numbers indicated between parentheses correspond to the printed version
 
 ## Chapter 2
