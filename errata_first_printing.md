@@ -148,6 +148,9 @@ page 175 (177):
 page 185 (187):
 
 - first paragraph: "shocked or even disappoint[ing] (ed) by"
+- equation 5.1: $p(  T_{sim} > T_{obs} | y)$
+
+
 
 Page 216 (218):
 

@@ -7,6 +7,13 @@ page 121 (123):
 
 - equation 3.17, the sum should run from i = 1 to m (not n)
 
+## Chapter 5
+
+page 185 (187):
+
+- equation 5.1: $p(  T_{sim} > T_{obs} | y)$
+
+
 ## Chapter 7
 
 page 254 (257):
