@@ -14,6 +14,20 @@ page 185 (187):
 - equation 5.1: $p(  T_{sim} > T_{obs} | y)$
 
 
+page 193 (195):
+
+- equation 5.5: the term $pAIC$ should be $p_{AIC}$
+
+page 213 (215):
+
+- equation 5.14:The sumation in the firt term should run up to $S$ not $s$   $WAIC = \displaystyle{-2 \sum_i^n \log \left(\frac{1}{S} \sum_{s=1}^S p(y_i \mid \theta^s) \right) + 2 \sum_i^n  \left( \mathop{V}_{s=1}^S \log p(y_i \mid \theta^s) \right)}$
+
+
+page 218 (220):
+
+- equation 5.18: The signs in the second line are inverted. It should be $-\sum_i p_i \log qi + \sum_i p_i \log ri$
+
+
 ## Chapter 7
 
 page 254 (257):
