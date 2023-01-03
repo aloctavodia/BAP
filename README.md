@@ -40,6 +40,10 @@ For your reference the book was writting using the following python packages:
 * ArviZ 0.3.1
 * PyMC3 3.6
 
+## Updated code
+
+* Folder code_3_11 has notebooks with the code upated to work with PyMC 3.11
+* Folder code_5 has notebooks with the code upated to work with PyMC > 5
 
 ## Errata
 
