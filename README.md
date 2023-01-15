@@ -9,7 +9,7 @@ If you have read Bayesian Analysis with Python (second edition). I will really a
 
 ## Installation
 
-The code in the book was written using Python version 3.6. To install Python and Python libraries, I recommend using Anaconda, a scientific computing distribution. You can read more about Anaconda and download it at https:/​ / ​ www.​ anaconda.​ com/​ download/​ . This will install many useful Python packages on you system. You will need to install two more packages. To install PyMC3 please use conda :
+The code in the book was written using Python version 3.6. To install Python and Python libraries, I recommend using Anaconda, a scientific computing distribution. You can read more about Anaconda and download it at [https://www.anaconda.com/download/](https://www.anaconda.com/download/). This will install many useful Python packages on you system. You will need to install two more packages. To install PyMC3 please use conda :
 
 
 ```
