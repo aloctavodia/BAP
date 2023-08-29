@@ -80,5 +80,13 @@ This is a list of the most important differences per chapter.
 
 The main aim from the first edition remains. That is, to help people with some Python experience but with no previous statistical knowledge to get started with Bayesian data analysis and probabilistic programming.
 
+## Get the Book
+
+- Amazon US [link](https://www.amazon.com/Bayesian-Analysis-Python-Introduction-probabilistic/dp/1789341655
+)
+- Amazon UK [link](https://www.amazon.co.uk/Bayesian-Analysis-Python-Introduction-probabilistic/dp/1789341655)
+- Packt [link](https://packt.link/Osvaldo)
+
+
 ## License
 The contents of this repository is under an [MIT License](https://github.com/aloctavodia/BAP/blob/master/LICENSE)
