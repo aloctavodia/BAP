@@ -9,7 +9,7 @@ If you have read Bayesian Analysis with Python (second edition). I will really a
 
 ## Installation
 
-The code in the book was written using Python version 3.6. To install Python and Python libraries, I recommend using Anaconda, a scientific computing distribution. You can read more about Anaconda and download it at https:/​ / ​ www.​ anaconda.​ com/​ download/​ . This will install many useful Python packages on you system. You will need to install two more packages. To install PyMC3 please use conda :
+The code in the book was written using Python version 3.6. To install Python and Python libraries, I recommend using Anaconda, a scientific computing distribution. You can read more about Anaconda and download it at [https://www.anaconda.com/download/](https://www.anaconda.com/download/). This will install many useful Python packages on you system. You will need to install two more packages. To install PyMC3 please use conda :
 
 
 ```
@@ -79,3 +79,14 @@ This is a list of the most important differences per chapter.
 
 
 The main aim from the first edition remains. That is, to help people with some Python experience but with no previous statistical knowledge to get started with Bayesian data analysis and probabilistic programming.
+
+## Get the Book
+
+- Amazon US [link](https://www.amazon.com/Bayesian-Analysis-Python-Introduction-probabilistic/dp/1789341655
+)
+- Amazon UK [link](https://www.amazon.co.uk/Bayesian-Analysis-Python-Introduction-probabilistic/dp/1789341655)
+- Packt [link](https://packt.link/Osvaldo)
+
+
+## License
+The contents of this repository is under an [MIT License](https://github.com/aloctavodia/BAP/blob/master/LICENSE)
